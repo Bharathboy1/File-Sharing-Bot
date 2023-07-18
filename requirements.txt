@@ -8,3 +8,4 @@ dnspython
 umongo==3.0.1
 # --- For-Web-Response ------- #
 aiohttp
+motor==2.5.1
